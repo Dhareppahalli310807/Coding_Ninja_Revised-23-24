@@ -1,0 +1,77 @@
+1)What is the use of Forms in HTML?
+--> to collect user inputs
+
+2)Input tag is generally used within:
+--> <form> element
+
+3)Select the correct statements about the label tag.
+--> label tag is inline element
+
+4)What is the default ‘type’ attribute of <input> element?
+--> text
+
+5)Adding which of the following to input box make it compulsory to be filled out when submitting the form?
+--> required
+
+6)How does the “for” attribute of label tag linked to the input box?
+--> set the id attribute of input to same value as "for" Attribute
+
+7)To create a drop down which tag will you use?
+--> <select>
+
+8)Which attribute can be used with <select> element?
+--> multiple
+
+9)The method attribute specifies -
+--> the method name that process the form data
+
+10)Which method would be more appropriate in the form where a user enters a password such as a login form?
+--> POST
+
+11)Which tag is used to defines multiple media resources for media elements audio and video?
+--> source
+
+12)Which of the following attribute adds audio controls, like play, pause, and volume?
+--> controls
+
+13)With which element can the figcaption be used?
+--> figure
+
+14)In which part of the HTML metadata is contained?
+-->Head tag
+
+15)Which attribute gives the value associated with the http-equiv or name attribute?
+--> content
+
+16)What does the name attribute in meta tags specify?
+--> name of metadata
+
+17)Which attribute can be used with <select> element?
+--> select
+
+18)Which of the following element defines a group of related options in a drop-down list
+--> <optgroup>
+
+19)What is the value of rel attribute to describe a favicon?
+--> icon
+
+20)When form data contains sensitive information, then which of the following method should be used?
+--> POST
+
+21)What is the role of the charset attribute? It specifies:
+--> The character encoding the HTML Document
+
+22)Why is it important to specify the width and height attribute in the img tag?
+--> helps the browser to load the web page Faster
+
+23)Attributes generally come in name/value pairs like -
+--> name="value"
+
+24)Which of the following elements are block and inline elements, respectively, that have no particular rendering?
+--> div, span
+
+25)Which attribute defines the file-select field?
+--> file
+
+26)Which attribute is not used for the radio type?
+--> selected

@@ -1,0 +1,49 @@
+1)The element <DIV> has which of the following property
+-->define content to be block level
+
+2)A semantic element clearly describes its meaning to
+-->Browser And Developer
+
+3)Which of the following is not a semantic element?
+--> <span>
+
+4)Which element works as a sidebar?
+--> aside
+
+5)Which of the following is not a block element?
+--><a>
+
+6)Which element works similar to <b> element?
+--><strong>
+
+7)Which entity will generate ‘&’ symbol?
+-->&amp
+
+8)When is the content of a table shown?
+--> after tha table is loaded
+
+9)Which tag allows you to add a row in a table?
+-->tr 
+
+10)What will be added by using <td></td> tag ?
+-->cell 
+
+11)Which attribute you’ll use with TD tag to merge two cells horizontally?
+--> colspan=2
+
+12)Which of the following defines a visible heading for <details> element?
+-->summary
+
+13)Which element defines additional details?
+--><details>
+
+14)Which HTML tag allows content to flow alongside it without creating a new line?
+--><img>
+
+15)Is it possible to insert a table within another table?
+--> Yes
+
+16)Choose the correct statement for <h1> tag?
+-->h1 tag is a sematic tag
+
+17)

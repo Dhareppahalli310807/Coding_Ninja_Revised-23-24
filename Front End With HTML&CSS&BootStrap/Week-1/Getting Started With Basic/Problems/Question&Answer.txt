@@ -1,0 +1,33 @@
+1)What is a web browser?
+--> it is a client side application
+
+2)If the content of the website can be changed in real-time based on the user request then this could be an example of -
+--> Dynamic website
+
+3)Which website will return the same hard-coded content from the server whenever a particular resource is requested?
+  Note: Hard-coded contents are static content that can not be changed without replacing the website’s pages with updated or new files.
+--> Static website
+
+4)From which part of the website, Users interact directly?
+--> fronend
+
+5)Server Side development is also known as :
+--> Back End development
+
+6)DNS(Domain Name System) maps the IP address to:
+--> Domain NAmes
+
+7)ISP stands for :
+--> internet Service Provider
+
+8)Which of the following statements is/are true?
+1. The server needs an application called a browser to process the request received from the client.
+2. The objective of the web server is to store, process, and deliver web pages to the users.
+3. In the world wide web, Client-server communication is done using HTTP/HTTPS.
+--> only Statement 2 And 3
+
+9)For a website that includes links to external sites and hosts an abundance of media and textual content:
+1. It is a basic form of a dynamic website where user interaction with links leads to changes to the webpage.
+2. It would be classified as a static website since clicking links redirect users to other websites while the content on each webpage remains the same.
+3. It's a dynamic website as it contains media content.
+--> only statement 2 is true

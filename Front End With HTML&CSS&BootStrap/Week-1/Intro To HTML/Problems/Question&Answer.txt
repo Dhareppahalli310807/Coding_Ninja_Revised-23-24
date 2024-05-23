@@ -1,0 +1,73 @@
+1)How would the browser know that you are using the HTML5 version?
+--> it is specified using <!DOCTYPE html>
+
+2)The BODY tag is used just after -
+--> HEAD tag
+
+3)How do we write comments in HTML5?
+--><!--....-->
+
+4)Choose the appropriate option that defines the purpose of the title tag
+  The title tag -
+--> Defines a totle in a browser toolbar
+    provides a title for the page when it is added in favorites
+    display a title for the page in search-engine results
+
+5)<p> tag is used to -
+--> start a new paragraph
+
+6)Can the element <h1> be replaced with <H1>?
+--> Yes both are same
+
+7)What does the <br> tag add to your webpage?
+--> Line Break
+
+8)What is the difference between an HTML tag and an HTML element?
+--> HTML Tags are used as a container for HTML Elements
+
+9)To create a bulleted list, we can use -
+--> <ul>
+
+10)Which of the following options can be used to create a list with filled circles as shown below.
+--><ul type="disc">
+
+11)Which tag will display the content of list?
+--> li
+
+12)Which attribute is/are used to set the dimensions of the image?
+--> Width and Height
+
+13)Which attribute is used to set the path for an image element?
+--> src 
+
+14)The tag used for creating hypertext and hypermedia links is -
+--> <a>
+
+15)URL for link is specified using ___ attribute.
+--> href
+
+16)A linked page using anchor tag is normally displayed in -
+--> same tab 
+
+17)Default color of active link in browser is -
+--> red 
+
+18)Relative URLs are used to -
+--> link other pages to the same site
+
+19)In HTML, tags that include both start and end tag are called -
+--> container tag
+
+20)Which of the following is not a pair tag?
+--> img 
+
+21)Alt Attribute is more useful in the situation where user have -
+--> show internet connection and no image shown to any resion
+
+22)HTML <dl> tag defines the
+--> disc list 
+
+23)Which tag is used to describe a term/name in a description list?
+--><dt>
+
+24)
