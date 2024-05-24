@@ -1,0 +1,19 @@
+1)Which of the following when added to content attribute of meta tag will set the initial zoom level for a page?
+--> initial-scale=1.0
+
+2)Why do we need Media Query?
+--> Perticularly to style elements depending upon the browser size
+
+3)Which of the following media types can be used in defining a media query?
+--> all, print, screen, speech
+
+4)Which of the following will optimize the size of the page according to the device size?
+--> <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+5)What could be the possible values of the width property of content attribute in meta tag ?
+--> 500, device-width
+
+6)Which of the following media features can be used in defining a media query?
+--> min-width, max-height, orientation
+
+7)

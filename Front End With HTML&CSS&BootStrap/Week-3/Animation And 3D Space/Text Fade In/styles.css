@@ -1,0 +1,25 @@
+@keyframes fadeInLeft {
+  from {
+    opacity: 1;
+    transform: translateX(100%);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(0);
+  }
+}
+
+#div1 {
+  height: 40px;
+  width: 250px;
+  position: relative;
+  top: 100px;
+  left: 100px;
+  font-size: 30px;
+  border: solid black;
+  border-width: 3px 0px 3px 0px;
+  text-align: center;
+  padding: 5px;
+  animation: fadeInLeft 1s ease-out forwards;
+
+}

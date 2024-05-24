@@ -1,0 +1,33 @@
+#div1{
+	width: 100%;
+	border: 2px solid black;
+}
+
+/*mobile-first*/
+
+@media screen and (min-width:600px){
+	#div1{
+		width: 80%;
+	}
+}
+
+@media screen and (min-width:900px){
+	#div1{
+		width: 60%;
+	}
+}
+
+/*desktop-first*/
+
+/*@media screen and (max-width:900px){
+	#div1{
+		width: 90%;
+	}
+}
+
+@media screen and (max-width:600px){
+	#div1{
+		width: 100%;
+	}
+}*/
+

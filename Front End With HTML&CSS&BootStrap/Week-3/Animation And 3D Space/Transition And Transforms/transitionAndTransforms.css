@@ -1,0 +1,21 @@
+#div1{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-color:red;
+/*	transform: rotate(45deg);*/
+/*	transform: rotatex(45deg);*/
+/*	transform: scale(1.0);*/
+/*	transform: scale(1.0, 0.4);*/
+/*	transform: translateY(10px);*/
+/*	transition: 1s ease-in-out;*/
+	transition: 1s steps(10, end);
+}
+
+#div1:hover{
+	height: 400px;
+	width: 400px;
+	transform: scale(1.0) translate(10px);
+}

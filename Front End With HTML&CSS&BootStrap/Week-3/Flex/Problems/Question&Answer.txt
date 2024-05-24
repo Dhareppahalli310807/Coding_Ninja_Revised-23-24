@@ -1,0 +1,50 @@
+1)Which property is necessary to add to element to make the flex properties work?
+--> display:flex;
+
+2)Which property defines in which direction the container wants to stack flex items?
+--> flex-direction
+
+3)What is the default orientation within a flex container?
+--> horizontal 
+
+4)To make an HTML element behave as a grid container, you have to set the display property to -
+--> grid, inline-grid
+
+5)What layout modules require containers?
+--> flexbox, grid
+
+6)In the shortened property flex: 1 0 auto; which property refers to the 2nd value (here 0)?
+--> flex-shrink
+
+7)Which property can be used to insert line breaks within words to prevent text from overflowing?
+--> overflow-wrap
+
+8)What is the required number of colors to produce a gradient effect?
+--> more than  one
+
+9)Suppose you want to control the direction, and you have to give the gradient a specific angle to create a horizontal gradient running from left to right.
+Which of the following angle will be used?
+--> 90deg
+
+10)How will you set the color of all the unvisited links in a web page?
+--> a{color:red}
+
+11)Suppose, you clicked on a link and its color is changed when you revisited it. Then ,which of the following pseudo class would have been used to do so?
+--> visited
+
+12)Which of the following transition-timing-function property specifies a transition effect with a slow start and end?
+--> ease-in-out
+
+13)How can you apply styles to first line of every paragraph?
+--> p::first-line{....}
+
+14)Which of the following is/are types of gradient?
+--> Linear, Radial, Repeating Linear, Repeating Radial
+
+15)Which of the following CSS code will add an image on the right side of every anchor tag?
+-->a::after{background-image:url(...);}
+
+16)Suppose you want to arrange five numbers of DIVs so that DIV4 is placed above DIV1. Now, which CSS property will we use to control the order of the stack?
+--> Z-index
+
+17)

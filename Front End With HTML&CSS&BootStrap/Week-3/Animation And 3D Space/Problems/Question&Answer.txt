@@ -1,0 +1,4 @@
+1)What values can the ‘transform’ property take? (Multiple options are correct)
+--> translate(x,y), rotate3D(x,y,z,deg), scaleX(x)
+
+2)
