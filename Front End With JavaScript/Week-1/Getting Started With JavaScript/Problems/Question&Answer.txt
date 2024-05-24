@@ -1,0 +1,22 @@
+1)Which of the following options correctly describes the different platforms where JavaScript can be used?
+-->it can be used for client-side web development, server-side web development and mobile applicationdevelopment
+
+2)Which option is incorrect based on the nature of JavaScript?
+--> JS is a markup language used for defining the structure and content of web pages
+
+3)Which of the following best describes the nature of JavaScript in terms of compilation and execution for browsers?
+--> JS code is JIT compiled at runtime
+
+4)What does it mean for a programming language to be interpreted?
+--> The code is executed directly by an interpreted without prior compilation
+
+5)Which of the following programming styles are supported by JavaScript?
+--> procedural, object-oriented, and functional programming
+
+6)What is the difference between ECMAScript and JavaScript? Please refer to the "ECMAScript and JavaScript" notes before answering the MCQ.
+--> ECMAScript is a language specification , while JavaScript is a programming language based on that specification
+
+7)Suppose you want to ask the user for permission to send a pop-up notification, which dialog box will you use for this purpose?
+-->confirm box
+
+8)

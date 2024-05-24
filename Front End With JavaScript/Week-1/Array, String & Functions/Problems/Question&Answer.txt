@@ -1,0 +1,2 @@
+1)What are the various data types that can be added to an array?
+--> object, Arrays, Primitive DataTypes and function

@@ -1,0 +1,4 @@
+1)Which among the following is the correct syntax to find which number is greater or holds equality among the two numbers?
+--> num1> num2? num1:num2 === num1? "equal":num2
+
+2)

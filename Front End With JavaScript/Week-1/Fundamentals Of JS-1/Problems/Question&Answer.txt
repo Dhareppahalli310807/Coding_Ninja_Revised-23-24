@@ -1,0 +1,13 @@
+1)What happens when someone miss semicolon at the end of a statement in JavaScript?
+--> Automatic semicolon insertion will add it
+
+2)What is variables?
+--> variables are used to store and manage data
+
+3)Which among the following is a non - primitive data type?
+--> object
+
+4)What is the purpose of the 'null' data type in JavaScript?
+--> Represents an empty value
+
+5)
