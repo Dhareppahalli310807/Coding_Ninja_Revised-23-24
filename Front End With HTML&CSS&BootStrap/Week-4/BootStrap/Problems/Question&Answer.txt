@@ -1,0 +1,46 @@
+1)Why are bootstrap breakpoints required?
+--> bootstrap breakpoints define how the width of the content would adjust accross diffrent device sizes
+
+2)Which statement is correct for CSS styles?
+--> all inline css applies to one element
+
+3)Which is not the selector type of CSS?
+--> Local selector
+
+4)Which of the following is NOT an acceptable value for the font-size property?
+--> .4page
+
+5)Which of the following property controls the horizontal overflow of a block or inline-block?
+--> overflow-x
+
+6)Which of the following CSS Property controls how an element is positioned?
+--> Position 
+
+7)Which of the following specifies the initial length of the flex item?
+--> Flex-basis
+
+8)Which of the following CSS properties specifies the stack order of elements?
+--> z-index
+
+9)Which property is used to align flex items horizontally?
+--> justify-content
+
+10)Which of the following unit represent the viewport’s width?
+--> vw 
+
+11)Which of the following Media feature describes the ratio of the device width to the device height of the media?
+--> aspect-ratio
+
+12)What does Bootstrap set the default grid float breakpoint?
+--> 768px
+
+13)How to display block only for extra small devices?
+--> visible-XS-*
+
+14)Stacked-to-horizontal grid becomes
+--> horizontal on desktop
+
+15)By default, any element in HTML will behave like this:
+--> Position:static;
+
+16)
