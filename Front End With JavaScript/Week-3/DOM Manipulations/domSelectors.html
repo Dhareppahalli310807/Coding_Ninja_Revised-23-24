@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> DOM Manipulation </title>
+    </head>
+    <body>
+        <h1 class="first">Document Object Model</h1>
+        <p id="para">Lets learn more about DOM Manipulation here....</p>
+        <div>
+            <h3> Inner Heading </h3>
+        </div>
+        <script>
+            //console.log(document.querySelector("h1"));
+            //console.log(document.querySelectorAll("h1"));
+            const firstHead = document.querySelectorAll(".first");
+            console.log(firstHead);
+            const para = document.querySelector("#para");
+            console.log(para);
+        </script>
+    </body>
+</html>
