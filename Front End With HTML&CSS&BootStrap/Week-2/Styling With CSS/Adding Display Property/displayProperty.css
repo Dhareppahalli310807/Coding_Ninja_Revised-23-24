@@ -1,0 +1,19 @@
+#div1{
+	background-color: blue;
+	height: 200px;
+	text-align: center;
+	width: 200px;
+}
+#div2{
+	background-color: yellow;
+	height: 200px;
+	text-align: center;
+	width: 200px;
+	margin-left: -4px;
+}
+span{
+	display: block;
+}
+div{
+	display: inline-block;
+}

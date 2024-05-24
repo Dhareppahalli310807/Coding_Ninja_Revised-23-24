@@ -1,0 +1,21 @@
+#div{
+	height: 200px;
+/*	vh mens complete heigth*/
+/*vw mens complete width*/
+	width: 300px;
+	background-color: blue;
+	/*border-style: solid;
+	border-width: 10px;
+	border-color: black;*/
+	border: 20px solid red;
+}
+#div1{
+	height: 50%; 
+/*	50% of parent div*/
+	width: 50%;
+	background-color: cyan;
+}
+#para-id{
+/*	border: 2px solid red;*/
+	border-left: 4px solid red;
+}

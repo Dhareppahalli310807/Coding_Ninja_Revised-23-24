@@ -1,0 +1,37 @@
+/*-----header-----*/
+header {
+    height: 400px;
+}
+.main-header {
+    height: 400px;
+}
+.about-site{
+	color: grey;
+}
+.header-image-container {
+}
+
+
+/*-----main-----*/
+article {
+    width: 1000px;
+}
+.blog-header {
+}
+.blog-content {
+    width: 1000px;
+}
+.blog-image-container {
+}
+h1 {
+    font-size: 40px;
+    color: darkslategrey;
+}
+.h-style{
+	color: darkslategrey;
+}
+
+p {
+    color: dimgrey;
+}
+

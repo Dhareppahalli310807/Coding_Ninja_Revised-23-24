@@ -1,0 +1,11 @@
+#div{
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+/*background-color: red; ---1)direct color name
+background-color: #561414; ---2)direct color code
+background-color: rgb(40, 50, 299); ---3)hexa code color like red green blue
+background-color: rgba(40, 50, 299); ---4)hexa code color like red green blue and proporation
+background-color: hsl(200, 100%, 50%);---5)color like hue saturatation and lightness
+background-color: hsla(200, 100%, 50%);---5)color like hue saturatation and lightness and proporation*/
+}

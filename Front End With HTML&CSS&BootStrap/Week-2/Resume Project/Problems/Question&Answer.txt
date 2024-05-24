@@ -1,0 +1,20 @@
+1)Which of the following properties specifies the transparency of an element?
+--> opacity
+
+2)Which of the following values are required for the CSS box-shadow property?
+--> h-offset, v-offset
+
+3)How to apply a style to every element of the html page?
+--> *{}
+
+4)Which of the following represents the selection of only those <ul> that are immediately preceded by the <p> element, i.e. only the adjacent element?
+--> p +ul{....}
+
+5)How to apply style to only those <input> tags which have 'disabled' attribute to them?
+--> input[desabled]{....}
+
+6)Which of the following will apply style to only those <input> tags which have the value of their 'type' attribute as 'text' ?
+--> input[types:"text"]{....}
+
+7)Which of the following is a correct example of a custom attribute?
+--> data-file="images"

@@ -1,0 +1,10 @@
+/* Styling for the main heading */
+h1 {
+    font-size: 40px;
+    color: darkslategrey;
+}
+
+/* Styling for paragraphs */
+p {
+    color: darkslategrey;
+}

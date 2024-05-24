@@ -1,0 +1,43 @@
+1)Which tag is used to contain content that is related to the primary content of the webpage, but isn't the primary content of the page.
+--> aside
+
+2)What is true about CSS?
+--> apply style for the web pages
+
+3)Which HTML attribute is used to define inline styles?
+--> style
+
+4)Which of the following represents an internal style sheet?
+--> <style>tag{property:value;} </style>
+
+5)Which is the correct CSS syntax written inside the style tag?
+--> body{font-size:20px}
+
+6)Where in an HTML document is the correct place to refer to an external style sheet?
+--> in the <head> section
+
+7)What is the correct HTML for referring to an external style sheet?
+--> <link rel = "stylesheet" type="text/css" href="mystyle.css">
+
+8)Select the correct statements regarding Browser Developer Tools
+--> you can debug javascript and css contained
+
+9)Which attribute specifies a unique alphanumeric identifier to be associated with an element?
+--> id
+
+10)How do you select all p elements inside a div element?
+--> div p 
+
+11)How to apply specific styles to h1 tag only when mouse points to it?
+--> h1:hover
+
+12)How do you group multiple selectors?
+--> seperate each Selector With a comma
+
+13)How to apply styles to para’s having class ‘style’? (There are other elements with same class name)
+--> p.style
+
+14)How to apply styles to all <span> element inside para’s having class ‘style’?
+--> p.style span
+
+15)
