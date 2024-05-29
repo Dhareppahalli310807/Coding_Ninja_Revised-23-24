@@ -1,0 +1,8 @@
+1)atement(s) is/are true about sessions in Node.js?
+--> sessions helps maintain statefull comminucation between client and a server in a stateless protocol like HTTP
+
+2)Which statement(s) is/are true about cookies?
+--> cookies are stored on user browser
+--> cookies have a longer lifespan compared to sessions
+
+3)
