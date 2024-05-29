@@ -1,0 +1,7 @@
+1)Which type of relationship is suitable for modelling a list of tags associated with multiple blog posts, where each tag can be associated with multiple posts, and each post can have multiple tags?
+--> Many to Many
+
+2)What is the primary advantage of using a managed MongoDB service on the cloud, such as MongoDB Atlas, over self-hosted MongoDB installations?
+--> simplified database management and maintaince
+
+3)

@@ -1,0 +1,4 @@
+1)What are some key advantages of using Mongoose as an Object-Data Modeling (ODM) library for MongoDB in a Node.js application?
+--> Mongoose allow you to define a schema for ur data, providing a cleare structure and validation for ur documents
+
+2)
