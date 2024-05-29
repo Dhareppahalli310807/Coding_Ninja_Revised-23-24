@@ -1,0 +1,15 @@
+1)Suppose an application relies on Facebook's authentication system to verify its users. What is/are the advantage(s) of using this approach?
+--> inhance sequerty due to facebook robust verification process
+-->increased user trust with facebook brand
+
+2)What is the primary difference between authentication and authorization in the context of user access control?
+--> authentication verify the identity of the user, while authorization control the user access to resource
+
+3)Why is basic authentication not recommended for REST APIs?
+--> it has limited scalability
+-->it lacks encryption and can be easily decoded, compromising the sequerty of credentials
+
+4)Is it possible to read the contents of the JWT payload without the secret key?
+--> Yes
+
+5)
