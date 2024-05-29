@@ -1,0 +1,8 @@
+1)What are some advantages of using Socket.io over traditional HTTP requests for real-time communication? (Select all that apply)
+--> Lower latency for real time update
+--> Efficent bidirectional communication
+
+2)You are experiencing issues while establishing a connection from the front end to the back end using Socket.io, and you want to enhance security by allowing only POST and GET requests from the front end. What action should you take to restrict the allowed HTTP methods for this interaction?
+--> configure CORS on the server to allow cross origin requests and specify the allowed HTTP methods as post and GET
+
+3)
