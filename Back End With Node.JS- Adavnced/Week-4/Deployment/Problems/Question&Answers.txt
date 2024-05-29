@@ -1,0 +1,12 @@
+1)Given the following folder structure for a Render project, what should be the start command to run the server.js file?
+--> node server/server.js
+
+2)What type of data is typically passed as environment variables among the following?
+--> JWT secret Key
+--> Database Connection string
+
+3)Identify the correct deployment links for different types of applications:
+--> "https://data-store.onrender.com/"
+--> "https://fashion-api.onrender.com/"
+
+4)
