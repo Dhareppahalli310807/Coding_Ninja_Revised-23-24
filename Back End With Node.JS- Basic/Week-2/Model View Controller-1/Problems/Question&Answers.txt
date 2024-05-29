@@ -1,0 +1,11 @@
+1)What is/are the purpose(s) of the Microservices architecture?
+--> its break down the application int smaller , independent services that comminucate with each other
+--> its increases scalability and maintainability
+
+2)What is/are the purpose(s) of the Model-View-Controller (MVC) pattern?
+--> To seperate The Application data, user interface and control logic
+
+3)What is the role of the Controller component in the MVC pattern?
+--> its handles user requests from the view and updates the model and view
+
+4)
