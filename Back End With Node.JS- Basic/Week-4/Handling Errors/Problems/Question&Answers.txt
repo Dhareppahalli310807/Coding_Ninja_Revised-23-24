@@ -1,0 +1,16 @@
+1)In a product controller, a function is calling another function inside the model that might throw an error. How can you handle this situation?
+--> Use the try catch block in the product controller function
+
+2)What information does the catch block receive when an error occurs?
+--> the error object containing the error message , name and stack
+
+3)You're building a REST API for a social media platform. Which of the following URL structures is recommended to retrieve all posts by a specific user?
+--> api/user/posts
+
+4)What is the significance of using correct status codes in a REST API?
+--> its provide the detailed information about the request status
+
+5)Why is it important to validate data before sending it to an API function?
+--> to prevent the potential security vulnerabilities
+
+6)
