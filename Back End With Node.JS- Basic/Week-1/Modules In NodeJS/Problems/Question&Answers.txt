@@ -1,0 +1,25 @@
+1)What is a module?
+--> A reusable code that can be used in different parts of an application
+
+2)Which statement(s) is/are true regarding local modules in Node.js?
+--> local modules atr custom modules created for own application
+
+3)Which of the following statement is true about core modules in Node.js?
+--> core modules are built in modules in nodeJs
+
+4)Which of the following tasks can be performed by a package manager?
+--> installing and updating packages, removing packages
+
+5)What is the function of the dependencies section in package.json?
+--> to list all the external dependencies required by the project
+
+6)You are developing a Node.js project and need a package to assist with running automated tests during development. Which category would be the most appropriate for installing such a package?
+--> it should install as a devdependencies
+
+7)Which of the following is not a feature of NVM (Node Version Manager)?
+--> Automatically update nodeJS to the latest Version
+
+8)You are using fs.readFileSync to read the contents of a file in a Node.js application. If you omit the utf-8 encoding as the second argument, what will be returned?
+--> The file content as a buffer object representing binarary data
+
+9)
