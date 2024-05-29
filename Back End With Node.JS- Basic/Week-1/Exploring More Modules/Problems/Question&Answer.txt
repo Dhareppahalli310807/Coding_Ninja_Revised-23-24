@@ -1,0 +1,7 @@
+1)How does Event-Driven Architecture improve the scalability of Node.js applications?
+--> by allowing the application to handle multiple tasks concurrently and asynchronousaly
+
+2)Which of the following is/are best practice(s) for writing maintainable code in Node.js?
+--> README file for each module, explananing functionallity and usages
+
+3)
