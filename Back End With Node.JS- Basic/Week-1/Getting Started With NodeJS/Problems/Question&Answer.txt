@@ -1,0 +1,16 @@
+1)What are the contributing factors to the popularity of Node.js?
+--> NodeJS utilise Javascript Language familer with many developers
+-->NodeJS is optimized for scallability and high performance
+
+2)Which of the following role(s) does Node.js play as a runtime?
+--> memory Management, handling input, garbage collection
+
+3)Which of the following statements is true regarding I/O operations in Node.js?
+--> I/O operation are handled in the background by a from the thread pool
+
+4)Which of the following statements is/are correct about servers?
+--> server are responsible for handling user authebtication and processing clients request
+--> server can delever and process declarative
+
+5)Which of the following statements about the creation of a server using the HTTP module in Node.js is/are correct?
+--> clients send the request to the server and the server processes the request and sends the response back to the client
