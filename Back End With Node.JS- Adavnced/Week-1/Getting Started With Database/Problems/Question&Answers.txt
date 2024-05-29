@@ -1,0 +1,11 @@
+1)Which of the following statements about databases are true?
+--> databases are the software that persistently store data
+--> databases support various Data Management operation such as insertion, deletion, updation and retrival of data
+
+2)You are building a social media platform using a NoSQL database. Each post can have multiple comments. What are the possible ways to relate comments to a specific post?
+--> store each comment as a seperate documents with post identity
+
+3)What is MongoDB Compass and its uses?
+--> A tool for visualizing and manipulating MongoDb data in a GUI
+
+4)

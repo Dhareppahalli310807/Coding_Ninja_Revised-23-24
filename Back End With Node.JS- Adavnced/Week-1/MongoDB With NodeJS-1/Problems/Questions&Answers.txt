@@ -1,0 +1,10 @@
+1)What does the MongoDB driver allow you to do in a Node.js application?
+--> connect a nodejs application to a mongodb server
+
+2)What is the responsibility of the repository module in a Node.js application?
+--> to abstract the data access code and centralize it
+
+3)Which of the following statements are true about the dotenv library?
+--> parses and load env variable from .env file into process.env object
+
+4)
