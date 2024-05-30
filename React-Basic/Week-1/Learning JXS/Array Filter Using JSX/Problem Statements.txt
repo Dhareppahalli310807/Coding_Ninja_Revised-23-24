@@ -1,0 +1,19 @@
+Problem statement
+Create a React app and utilize the ES6+ array iteration method to filter the even number from the array and render them.
+
+Expected Output:
+ES6 Array Iteration Methods
+0
+2
+4
+6
+8
+10
+
+
+
+Test Cases:
+The app should render the data correctly
+
+
+For the given array, 6 elements should be rendered on the screen using the h3 tag, and the rendered item should be even.

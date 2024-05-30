@@ -1,0 +1,19 @@
+1)what are the fecture of REact
+--> Declarative, Component based, efficent for creating SPAs
+
+2)what is JSX
+-->JavaScript XML(JSX) is a syntax extension to JavaScript
+
+3)why JSX
+--> helpful as a visual aid when working with UI inside JavaScript
+--> React separates concerns instead of seperating technology
+
+4)What are the advantages of using JSX in a React app?
+--> it helps to couple rendering logic with UI logic
+--> it separates concerns instead of technology
+
+5)Which of the following statements are valid about keys in React?
+--> the index of an item in a list can used as a key for that items
+--> A key is used as a reference when deleting or modifying an item in the list
+
+6)
