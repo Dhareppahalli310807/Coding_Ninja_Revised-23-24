@@ -1,0 +1,10 @@
+Problem statement
+Create a React component named App that renders specific content, including a heading, a paragraph, and either an ordered or unordered list.
+
+
+React Project
+Skills used to make this project
+
+HTML
+javaScript
+CSS

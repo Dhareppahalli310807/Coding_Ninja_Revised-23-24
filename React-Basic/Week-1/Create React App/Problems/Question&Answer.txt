@@ -1,0 +1,12 @@
+1) What is React
+--> React is a JavaScript Library for building User Interface
+--> React is a composable
+-->React helps create single page application efficiecly
+--> React is a declarative
+
+2)Which of the following is/are correct about SPA(Single page application)?
+--> SPA dont require full page reload
+
+3)what is virtual DOM
+-->DOM-Document Object Model
+--> A virtual DOM is a programming concept where an ideal representation of UI is kept in memory and synced with the real DOM

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>React Component</title>
+        <!-- Include all the CDNs here -->
+        <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin>        		  </script>
+    	<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"crossorigin>
+        </script>
+    	<script src="https://unpkg.com/@babel/standalone/babel.min.js" crossorigin></script>
+    </head>
+    <body>
+      <div id="root"></div>
+      <script type="text/babel">
+      const App = () => {
+        return (
+          <div>
+            <h1>React Project</h1>
+            <p>Skills used to make this project</p>
+            <ul>
+              <li>HTML</li>
+              <li>javaScript</li>
+              <li>CSS</li>
+            </ul>
+          </div>
+        );
+      };
+      ReactDOM.render(<App />, document.getElementById('root'));
+    </script>
+    </body>
+</html>
