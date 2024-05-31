@@ -4,4 +4,16 @@
 2)How to pass parameters to event handlers in React?
 --> onClick = {(e) => handleClick(e, id)}
 
-3)
+3)Which of the following statement(s) is/are true?
+-->synthetic events are wrapper around the events object of the real DOM
+-->we have to call preventDefault to stop the default behaviour of a synthetic event
+
+4)Which statements are true about refs in React?
+--> Refs are used to directly access DOM Elements'
+--> Refs are created using React.createRef() and attached to the element via the ref attribute
+
+5)What are the syntax differences between handling events on React elements and DOM elements?
+--> events in React are named using CamelCase rather than lowerCase
+--> With JSX we have to pass a function rather than a string
+--> we cannot return false to prevent default behaviour of the event
+

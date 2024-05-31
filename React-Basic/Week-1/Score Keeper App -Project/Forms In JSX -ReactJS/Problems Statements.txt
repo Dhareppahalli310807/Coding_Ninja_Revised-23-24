@@ -1,0 +1,3 @@
+Problem statement
+Create a React application that allows users to input student details,
+including the student's name and their obtained marks and render those data in a table.

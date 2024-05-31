@@ -14,22 +14,53 @@
             var score = 0;
             var wicket = 0;
             let ballWiseRes =[];
-
+            let hit = 0;
+            let inputRef = React.createRef();
 
             function addScore(num){
-                ballWiseRes.push(num);
-                console.log(ballWiseRes)
-                score = score + num;
+                hit = num;
                 renderRoot();
             }
 
             function wicketDown(){
-                ballWiseRes.push("W");
-                console.log(ballWiseRes)
-                if(wicket < 12)
-                wicket++;
+                hit ="Out"
                 renderRoot();
             }
+
+            
+            function handleSubmit(event){
+                event.preventDefault();
+
+                if(hit == "Out"){
+                    wicket += 1;
+                }
+                else{
+                 score += hit;
+                }
+
+
+                ballWiseRes.unshift(
+                    <span>{`${hit==0?"DOT":hit} , ${inputRef.current.value}`}</span>
+
+                );
+
+                hit = 0;
+                inputRef.current.value = "";
+
+                
+
+                renderRoot();
+                console.log(inputRef.current.value);
+
+            }
+
+            const Form = () => (
+                <form onSubmit ={handleSubmit}>
+                    <input value = {hit}/>
+                    <input placeholder = "Add a comment" ref = {inputRef}/>
+                    <button> Submit </button>
+                </form>
+            )
 
             const ScoreButtons = () => (
                 <div>
@@ -43,25 +74,24 @@
                 <button onClick = {wicketDown}>Wicket</button>
                 </div>
             )
-
-            const BallWiseRes = () => (
-                <div>
-                    <hr />
-                    {ballWiseRes.map((res, i) => (
-                        <>
-                        {(i % 6 === 0) ? <br />: null }
-                          <span  key ={i}>{res === 0 ? <strong>.</strong> : (res === "W" ? <span style = {{color : "#f00"}}>{res}</span>: <span style = {{color : "#00ff"}}>{res}</span>)}</span>
-                        </>
-                    ) )}
-                </div>
-            )
                         
             const App = () => (
                 <>
                 <h1> Score Keeper App </h1>
                 <h2> Score: {score} / {wicket}</h2>
                 <ScoreButtons />
-                <BallWiseRes />
+                <br /><br />
+                <Form />
+                <hr />
+                <div>
+                    {ballWiseRes.map((res, index) => (
+                        <p key={index + 1}>
+                            {res}
+                        </p>
+                    ))}
+                </div>
+
+                
                 
                 </>
             )
