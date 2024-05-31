@@ -13,43 +13,56 @@
 
             var score = 0;
             var wicket = 0;
+            let ballWiseRes =[];
 
-            function addOne(){
-                score++;
-                console.log(score);
-                renderRoot();
-            }
 
-            function addTwo(){
-                score += 2;
-                console.log(score);
-                renderRoot();
-            }
-
-           
             function addScore(num){
+                ballWiseRes.push(num);
+                console.log(ballWiseRes)
                 score = score + num;
                 renderRoot();
             }
 
             function wicketDown(){
+                ballWiseRes.push("W");
+                console.log(ballWiseRes)
                 if(wicket < 12)
                 wicket++;
                 renderRoot();
             }
 
-                        
-            const App = () => (
-                <>
-                <h1> Score Keeper App </h1>
-                <h2> Score: {score} / {wicket}</h2>
-                <button onClick = {addOne}>1</button>
-                <button onClick = {addTwo}>2</button>
+            const ScoreButtons = () => (
+                <div>
+                <button onClick = {() => addScore(0)}>0</button>
+                <button onClick = {() => addScore(1)}>1</button>
+                <button onClick = {() => addScore(2)}>2</button>
                 <button onClick = {() => addScore(3)}>3</button>
                 <button onClick = {() => addScore(4)}>4</button>
                 <button onClick = {() => addScore(5)}>5</button>
                 <button onClick = {() => addScore(6)}>6</button>
                 <button onClick = {wicketDown}>Wicket</button>
+                </div>
+            )
+
+            const BallWiseRes = () => (
+                <div>
+                    <hr />
+                    {ballWiseRes.map((res, i) => (
+                        <>
+                        {(i % 6 === 0) ? <br />: null }
+                          <span  key ={i}>{res === 0 ? <strong>.</strong> : (res === "W" ? <span style = {{color : "#f00"}}>{res}</span>: <span style = {{color : "#00ff"}}>{res}</span>)}</span>
+                        </>
+                    ) )}
+                </div>
+            )
+                        
+            const App = () => (
+                <>
+                <h1> Score Keeper App </h1>
+                <h2> Score: {score} / {wicket}</h2>
+                <ScoreButtons />
+                <BallWiseRes />
+                
                 </>
             )
             
