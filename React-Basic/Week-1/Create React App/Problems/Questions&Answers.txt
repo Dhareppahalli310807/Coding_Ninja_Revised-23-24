@@ -1,0 +1,24 @@
+1)What are the disadvantages of using a CDN?
+--> CDN does not work without an internet connection
+--> CDN can fail if the server running that service fails to operate
+--> CDN can causes support and infrastructure issue
+
+2)Which of the following statements are true about adding scripts to HTML?
+--> scripts are loaded synchronousaly from top to bottom
+--> script at the top do not have access to other script below them
+
+3)What is the entry property in the Webpack configuration file ?
+--> its indicates which file will be at the top of its internal dependency graph
+
+4)What is the use of loaders in webpack?
+--> loaders allow webpack to transform files into valid modules
+
+5)Which of the following commands can be used to create a create-react-app project?
+--> create-react-app <project_name>
+--> npx create-react-app <project_name>
+
+6)What is the use of the package.json file in Node.js?
+--> it records all the dependency , script and metadata about the project
+
+7)What are the differences between named export and default export?
+--> 
