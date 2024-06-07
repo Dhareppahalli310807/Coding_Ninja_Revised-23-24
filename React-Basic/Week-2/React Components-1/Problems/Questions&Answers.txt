@@ -1,0 +1,16 @@
+1)Types of React components?
+--> Functional, Class-based components
+
+2)Which of the following is not true about the state in React?
+--> the state is immutable in React
+
+3)Which of the following options is correct for an event handler in Class-based React components?
+--> we can call handler Function without binding them externally to the components object which is triggred only by using the arrow function
+
+4)What are the rules to correctly write a Class based component in React?
+--> the name of the component must start with uppercase letter
+--> the component must be extend React.component Class
+--> the component must define a render methods that returns HTML code
+
+5)When is the setState method asynchronous?
+--> it is asynchronous in all time
