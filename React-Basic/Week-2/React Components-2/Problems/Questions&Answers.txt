@@ -1,0 +1,4 @@
+1)Which option is correct about passing data through props in React?
+--> we can only pass data as props to a child components
+
+2)
