@@ -1,0 +1,22 @@
+1)What are the advantages of using styled-components?
+--> its simplifies css specificity concerns
+--> it makes it easy to detect unused code
+
+2)How do we add CSS styling rules in styled-components?
+--> by using tagged templete literals
+
+3)Why do we need to lift the state to the parent component in React?
+--> to avoid the data redundency
+--> to share the the state from parent to the clild component
+--> To amke the parent component a single source of truth
+
+4)What are some valid statements about using CSS modules in React?
+--> they can be used to scope the styles of components locally
+--> they emplicitily export an object using defaut export
+
+5)How do we add dynamic styling to an element in React?
+--> by using the styled components with dynamic props
+--> by adding dynamic classes to the element
+--> by using inline styles with dynamic value
+
+6)
