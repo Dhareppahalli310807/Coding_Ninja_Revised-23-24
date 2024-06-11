@@ -1,9 +1,13 @@
 import React from "react";
-import ComponentA from "./ComponentA";
-class App extends React.Component{
-  render(){
-    return(
-      <ComponentA />
+import TimerOne from "./Components/Timer/TimerOne.js";
+
+class App extends React.Component {
+
+  render() {
+    return (
+      <>
+        <TimerOne />
+      </>
     );
   }
 }
