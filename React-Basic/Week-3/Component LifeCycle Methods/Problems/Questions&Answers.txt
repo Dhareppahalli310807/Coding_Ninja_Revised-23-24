@@ -1,0 +1,17 @@
+1)What is the order of phases of lifecycle methods in React?
+--> Mount, Update, Unmount, Error
+
+2)Which of the following are examples of side effects in React?
+--> Fetching data from api
+--> Using Native DOM methods
+
+3)You have a collection of movies saved in a database. You have retrieved them using the componentDidMount() method. Once you receive the movies, you store the movies in the state. Which of the following methods are called after setting the movies in the state?
+--> getDerivedStateFromProps And render
+
+4)You are building a text editor, where every time you enter some text, it rerenders the component and autosaves the text to a database. Which lifecycle method will you use to request the API to autosave the changes?
+--> componentDidUpdate
+
+5)You are building an app that fetches movies whenever you type something in the searchbar. To optimize for slow network speeds, you want to cancel the previous requests if a new one is to be made immediately. Which lifecycle method will you use to implement this functionality?
+--> componentWillUnmount
+
+6)
