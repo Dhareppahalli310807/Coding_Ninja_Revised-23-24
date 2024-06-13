@@ -1,0 +1,8 @@
+1)Which of the following can be accessed using Hooks in React?
+--> lifecycle methods in functional components
+
+2)The following code snippet fails to render because
+--> state can not be updated in the render function of class based components
+--> Hooks can not be used in class based components
+
+3)
