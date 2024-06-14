@@ -1,9 +1,12 @@
 import { useState } from "react";
+//importing custom hook
+import useLocalStorageForEmail from "./useLocalStorageForEmail";
 
 export default function Login(){
-   const [email,setEmail] = useState("");
-   const [password, setPassword] = useState("");  
-
+   const [password, setPassword] = useState(""); 
+   //destructuring {email,setEmail} from  useLocalStorageForEmail hook
+   const {email,setEmail} = useLocalStorageForEmail();
+   
     return(
         <>
         <h1>Login to the Portal!</h1>

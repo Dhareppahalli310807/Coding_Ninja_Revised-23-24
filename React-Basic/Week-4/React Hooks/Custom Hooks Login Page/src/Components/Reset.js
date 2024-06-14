@@ -1,9 +1,12 @@
-import { useState } from "react";
+import useLocalStorageForEmail from "./useLocalStorageForEmail";
 
 export default function Reset(){
 
-    const [email,setEmail] = useState("");
-    
+    //const [email,setEmail] = useState("");
+
+    //destructuring {email,setEmail} from  useLocalStorageForEmail hook
+   const {email,setEmail} = useLocalStorageForEmail();
+
     return(
         <>
         <h3>Reset Password for</h3>
