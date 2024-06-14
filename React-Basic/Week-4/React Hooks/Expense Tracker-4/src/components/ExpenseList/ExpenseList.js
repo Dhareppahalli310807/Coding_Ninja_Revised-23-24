@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./ExpenseList.module.css";
-import Transaction from "../Transaction";
+import Transaction from "../Transaction/Transaction";
 
 const ExpenseList = ({ expenses, deleteExpense, setCurrentExpense }) => {
   return (

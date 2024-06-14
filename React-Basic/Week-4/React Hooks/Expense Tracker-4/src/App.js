@@ -1,7 +1,7 @@
 import { useState, useReducer } from "react";
-import ExpenseForm from "./components/ExpenseForm";
-import ExpenseInfo from "./components/ExpenseInfo";
-import ExpenseList from "./components/ExpenseList";
+import ExpenseForm from "./components/ExpenseForm/ExpenseForm";
+import ExpenseInfo from "./components/ExpenseInfo/ExpenseInfo";
+import ExpenseList from "./components/ExpenseList/ExpenseList";
 import "./App.css";
 
 const reducer = (state, action) => {
