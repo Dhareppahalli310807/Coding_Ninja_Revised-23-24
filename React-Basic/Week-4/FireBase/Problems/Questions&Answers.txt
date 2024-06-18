@@ -1,0 +1,6 @@
+1)Which of the following statements are not true about databases?
+--> in a treditional database connected device are not required to refresh their view to see any changes made to a record
+
+2)Which of the following is a key feature of Cloud Firestore database?
+--> Authentication Service, Scales Automatically, Offline Suport
+
