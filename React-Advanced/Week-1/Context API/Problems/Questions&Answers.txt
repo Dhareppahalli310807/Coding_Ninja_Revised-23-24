@@ -1,0 +1,7 @@
+1)What are the advantages of using Context API in React?
+--> Context API Manage the state outside the components tree, decoupling it from the tree structure
+
+2)What is the purpose of using a custom provider in React?
+--> its make the codebase more organised and maintable 
+
+3)
