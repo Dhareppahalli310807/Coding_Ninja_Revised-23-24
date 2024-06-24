@@ -1,0 +1,11 @@
+1)What are the challenges of implementing routing in Single Page Applications using React?
+--> SPAs need client Side Routing to navigate between pages
+--> SPAs Must dynamically update the UI when the client navigates to a new pages
+
+2)What are some valid statements about using Conditional Rendering instead of Routing in React?
+--> it does not change the page URL when the user navigates to the new page
+
+3)What are some valid statements about using react-router-dom for implementing routers in React?
+--> the browserRouter and HashRouter can be used for navigation if data API are not required
+
+4)
