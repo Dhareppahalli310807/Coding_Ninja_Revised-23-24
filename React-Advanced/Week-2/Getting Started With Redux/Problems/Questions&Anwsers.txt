@@ -1,0 +1,5 @@
+1)You are part of a team that is building a fintech platform that extensively uses dynamic data and is targeted to be used by mass consumers. What are the challenges of using context API to manage state in this scenario?
+--> Context API will Cause performance issues with dynamica data
+--> Debugging scaling will be difficult with context API
+
+2)
