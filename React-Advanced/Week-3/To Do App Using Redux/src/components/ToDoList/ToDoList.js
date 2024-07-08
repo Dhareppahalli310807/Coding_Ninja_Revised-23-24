@@ -5,7 +5,8 @@ import "./ToDoList.css";
 
 function ToDoList() {
 
-  const todos=useSelector((state)=> state.todos);
+  const todos=useSelector((state)=> state.todoReducer.todos);
+  console.log(todos);
   const disptach = useDispatch();
   // const todos= store.getState().todos;
 
