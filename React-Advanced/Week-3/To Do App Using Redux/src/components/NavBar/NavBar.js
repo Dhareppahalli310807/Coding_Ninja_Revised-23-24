@@ -1,5 +1,5 @@
 
-import "./NavBar.css";
+import styles from "./NavBar.module.css";
 
 function NavBar(){
     return(
@@ -11,10 +11,10 @@ function NavBar(){
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
+        <li className={styles.navitem}>
           <a class="nav-link active" aria-current="page" href="todo">To Do</a>
         </li>
-        <li class="nav-item">
+        <li className={styles.navitem}>
           <a class="nav-link active" aria-current="page" href="notes">Note</a>
         </li> 
       </ul>
