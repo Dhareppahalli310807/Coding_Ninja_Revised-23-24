@@ -19,7 +19,9 @@ function ToDoList() {
           <span className={styles.content}>{todo.text}</span>
           <span className={todo.completed ? styles.completed:styles.pending}>{todo.completed ? 'Completed': 'Pending'}</span>
           <button className="btn btn-warning"
-          onClick={()=>{disptach(actions.toggle(index))}}
+          onClick={()=>{
+            // console.log("[LOG]: Todo - TOGGLE Action dispatched");
+            disptach(actions.toggle(index))}}
           >Toggle</button>
           </li>
       ))}
