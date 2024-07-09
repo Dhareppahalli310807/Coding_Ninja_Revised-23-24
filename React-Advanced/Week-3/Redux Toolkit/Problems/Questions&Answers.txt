@@ -1,0 +1,12 @@
+1) What is a state slice in Redux?
+--> the subset of the redux state tree representing a fecture or domain of an application
+
+2)Which of the following is not a feature of the Redux Toolkit library?
+--> createSliceSelector Methods
+
+3)Select the incorrect statement about how the createSlice method simplifies Redux state management.
+--> it automatically generates the reducers function logic based on the provided action type name
+
+4)What are the advantages of using the configureStore function over manually creating a store with the createStore function?
+--> it simplifies the process of combining multiple reducers
+
