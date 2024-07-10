@@ -1,0 +1,8 @@
+1)What are some valid statements about middleware in Redux?
+--> middlewares intercepts actions in the dispatcher Pipeline
+--> middlewares can access and modify the action object
+
+2)Select the incorrect statement about the fetch function in JavaScript?
+--> The fetch function Always Returns a JSON object
+
+3)
