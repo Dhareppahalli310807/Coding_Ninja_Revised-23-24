@@ -1,0 +1,6 @@
+1) Which of the following is responsible for executing Java bytecode?
+--> JVM
+
+2) If we launch three Java programs on the same machine, how many instances of JVM would be created?
+--> 3
+
