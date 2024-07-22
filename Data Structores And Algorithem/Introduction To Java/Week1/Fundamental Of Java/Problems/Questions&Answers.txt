@@ -1,0 +1,44 @@
+1) Which of the following is an invalid variable name in Java?
+--> 1My_Var
+
+2) In a program, you need to store a person's age in years. Assuming you want to optimize memory usage, which primitive data type is the most suitable for this scenario?
+--> byte
+
+3)In a student registration system, which data type in Java best represents a student's enrollment status, such as "enrolled" or "not enrolled"?
+--> boolean
+
+4)In a student management system, which data type in Java is most appropriate for representing a student's grade, such as 'A' or 'B' for an exam?
+--> char
+
+5)What would be the binary representation for number 59?
+-->111011
+
+6)In a computer system with 8 bits, what is the range of integer values that can be represented using Two's Complement notation?
+Please select the correct option (A, B, C, or D).
+--> -128-127
+
+7)In a computer system using Two's Complement representation for negative integers, what is the binary representation of the decimal value -6?
+--> 1010
+
+8)In the hexadecimal numbering system, how many possible values can be represented by a single hexadecimal digit?
+--> 16
+
+9)In a computer system using 8 bits, what is the hexadecimal representation of the decimal value 42?
+--> 2A
+
+10)Consider a Java program that calculates the area of a rectangle. In this program, which of the following statements demonstrates the use of a data type, a variable, and a literal?
+--> int width = 5;
+
+11)Which of the following options represents a valid boolean literal in Java?
+--> false
+
+12)Which of the following is NOT a correct association between a primitive data type and its corresponding wrapper class in Java?
+--> char = char
+
+13)Which of the following options represents a valid integer literal in Java?
+-- 0xFF
+
+14)Which of the following wrapper class properties can be used to find the range of values for a long data type in Java?
+--> Long.MAX_VALUE and Long.MIN_VALUE
+
+15)
