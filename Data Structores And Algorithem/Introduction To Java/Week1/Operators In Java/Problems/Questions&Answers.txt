@@ -1,0 +1,10 @@
+1)Automatic type conversion in Java takes place when :
+--> Two Types are compatible and the size of the destination type is larger than the source type
+
+2)What is the result of the expression true && (false || true) in Java?
+--> true
+
+3)Which of the following statements accurately describes the importance of learning bitwise operators?
+--> bitwise operators are essential for performing low-level operation on individual bits in data such as bit manipulation, encryption, and data compression
+
+4)
