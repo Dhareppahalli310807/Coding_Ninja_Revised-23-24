@@ -1,0 +1,7 @@
+1)Which of the following components are typically included in a for loop in Java?
+--> initialization, condition, update
+
+2)In Java, which loop is most suitable when you want to execute a block of code a fixed number of times and you know the exact number of iterations required?
+--> for loop
+
+3)
