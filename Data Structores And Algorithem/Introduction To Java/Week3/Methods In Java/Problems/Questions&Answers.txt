@@ -1,0 +1,19 @@
+1)What is a method in Java?
+--> A reusable block of code that performs a specific task
+
+2)What is the purpose of method parameters in Java?
+--> To provide the values Or data to the methods for processing
+
+3)Which of the following is true about method arguments in Java?
+--> the number and types of methods arguments must match the methods parameter list
+
+4)What is the return type of a method that does not return any value?
+--> void
+
+5)What should be the return type of the function that takes two integer numbers as input and returns their sum.
+--> int
+
+6)Which of the following types in Java are passed by value when used as method arguments?
+--> Primitive data types
+
+7)
