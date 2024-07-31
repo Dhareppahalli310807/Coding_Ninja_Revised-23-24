@@ -1,0 +1,13 @@
+1)Which of the following is the primary reason for using arrays in Java?
+--> Arrays allow for efficient storage of multiple values of the same data types
+
+2)What is the index number of the last element of an array with 5 elements ?
+--> 4
+
+3)Which of the options can be used to get the size of an array?
+--> arr.length
+
+4)Which of the following statements is true regarding contiguous memory allocation?
+--> it store data elements in consecutive memory location
+
+5)
