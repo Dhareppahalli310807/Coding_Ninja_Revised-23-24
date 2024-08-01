@@ -1,0 +1,4 @@
+1)What is the return type of charAt() function in String class?
+--> charAt
+2)Would the Stringbuffer store its string in string pool?
+--> No
