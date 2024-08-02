@@ -1,0 +1,13 @@
+1)How many elements are present in a two dimensional array arr[2][5]?
+--> 10
+
+2)Find out the total columns in the 2nd row for the given 2D array : int arr[][] = new int[4][6].
+--> 6
+
+3)What should be the return type of a function that returns a 2-d array?
+--> int[][]
+
+4)How can we declare a 2d array with 4 rows but the number of columns in each row are not set?
+--> int a[][] = new int[4][];
+
+5)
