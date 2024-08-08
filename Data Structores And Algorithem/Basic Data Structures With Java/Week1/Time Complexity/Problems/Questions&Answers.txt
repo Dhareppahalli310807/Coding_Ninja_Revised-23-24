@@ -1,0 +1,4 @@
+1)Which complexity of an algorithm quantifies the amount of memory taken by an algorithm.
+--> space complexity
+
+2)
