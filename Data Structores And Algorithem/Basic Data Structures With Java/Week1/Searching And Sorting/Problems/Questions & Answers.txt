@@ -1,0 +1,10 @@
+1)In binary search, the array is repeatedly divided in half until:
+--> the element is found or the search range becomes empty
+
+2)Which of the following technique can be applied to improve the performance of the bubble sort?
+--> checking if the array is already sorted before starting the sorting algorithm
+
+3)In which of the following scenarios would selection sort be the best choice for sorting?
+--> when the input is very small and simple
+
+4)
