@@ -1,0 +1,18 @@
+1)What is the recurrence relation for merge sort :
+--> T(n)=2T( n/2)+O(n)
+
+2)What is the time complexity of merge sort :
+--> O(nlogn)
+
+3)The space complexity for merge sort is :
+--> O(n)
+
+4)The space complexity for finding nth fibonacci number using recursion is :
+--> O(n)
+
+5)Select the correct statement(s).
+--> oops refers to using objects in programming
+--> Object is an instance of class
+--> A class is a user defined blueprint from which objects are created
+
+6)
