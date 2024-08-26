@@ -1,0 +1,22 @@
+1) Can we declare constructors as final?
+--> No
+
+2) Which of these keywords can be used to prevent inheritance of a class?
+--> final
+
+3) Final class means -
+--> it can not be extented
+
+4) Which of the following declares an abstract method in an abstract Java class?
+--> public abstract void method()
+
+5) Which one of the following is not true?
+--> An abstract class cannot have non-abstract method
+
+6) Which of the following is a correct interface?
+--> interface A {void print()}
+
+7) Which of the following is not true?
+--> An interface can implement another interface
+
+8) 
