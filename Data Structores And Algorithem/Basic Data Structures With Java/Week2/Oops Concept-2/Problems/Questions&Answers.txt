@@ -1,0 +1,15 @@
+1)Which of the following is not an OOPS component?
+--> Aggregation
+
+2)Select the correct statement(s).
+--> incapsulation is hiding of data from outside world
+--> Abstraction means showing only necessary details to user
+--> inheritance is acquiring properties of other class
+
+3) Which keyword is used to inherit a class?
+--> extends
+
+4)Select option for access modifiers in increasing order of their visibility.
+--> Priviate , Default, Protected, Public
+
+5)
