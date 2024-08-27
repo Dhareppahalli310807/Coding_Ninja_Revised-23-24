@@ -1,0 +1,7 @@
+1)In doubly linked lists, traversal can be done in ?
+--> Both Direction
+
+2)The concatenation of two lists is to be performed in O(1) time. Which of the following implementations of a list should be used?
+--> circular doubly linkedList
+
+3)
