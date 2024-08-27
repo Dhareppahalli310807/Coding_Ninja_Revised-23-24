@@ -1,0 +1,13 @@
+1) Which of these standard collection classes implements a dynamic array?
+--> ArrayList
+
+2) Which of these method of ArrayList class is used to obtain present size of an ArrayList object?
+--> size();
+
+3) Which of the following declarations would be correct for a list that will contain Integers?
+--> ArrayList<Integer> list = new ArrayList<Integer>
+
+4)Which scenario is best suited for linked lists?
+--> Managing Data Structure with constantly changing Sizes
+
+5) 
