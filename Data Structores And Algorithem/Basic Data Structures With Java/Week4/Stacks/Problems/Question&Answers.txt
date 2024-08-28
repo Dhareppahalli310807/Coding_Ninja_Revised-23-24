@@ -1,0 +1,30 @@
+1) What method is used in implementation of stacks?
+--> Last In First Out
+
+2)Given an empty Stack and we perform following functions on the stack:
+1. push(5)
+2. push(3)
+3. push(4)
+4. pop()
+5 push(2)
+What is the size of stack now?
+--> 3
+
+3)What would be the sum of elements of Stack after performing following functions:
+1. push(5)
+2. push(3)
+3. push(4)
+4. pop()
+5. push(2)
+--> 10
+
+4)What should be the return type of size function in stack?
+--> int
+
+5)If initially the size of array of stack is 3,and we need to input 34 elements. How many times the doublecapacity function would be called?
+--> 4
+
+6) What is the time complexity of doublecapacity function of stack?(n is the size of previous array).
+--> 0(n)
+
+7) 
