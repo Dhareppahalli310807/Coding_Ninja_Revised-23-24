@@ -1,0 +1,16 @@
+1) A queue is a ?
+--> FIFO
+
+2)If the elements “p”, “q”, “r” and “s” are placed in a queue and are deleted one at a time, in what order will they be removed?
+--> pqrs
+
+3) In optimized linked list implementation of a queue, where does a new element be inserted?
+--> at the tail of linked list
+
+4) In linked list implementation of a queue, front and rear pointers are tracked. Which of these pointers will change during an insertion into EMPTY queue?
+--> Both front and rear pointer
+
+5)What are the minimum number of queues required to make a Stack?
+--> 2
+
+6) 
