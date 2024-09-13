@@ -1,0 +1,24 @@
+1) What is the time complexity of insertion , deletion and searching in case of Hashmaps using BSTs?
+--> 0(logn)
+
+2) What is the return type of containsKey() function in Hashmap?
+--> boolean
+
+3)Which function is used to insert a new key and value into the hashmap?
+--> put function
+
+4)When we make each cell of our bucket array point to a linked list , it is known as _____ ?
+--> seperate function
+
+5) In which of the following collision handling methods we have a risk of filling up the bucket array and running out of space to store more keys and values ?
+--> open hashing
+
+6) What is the default value of load factor in Hashmaps?
+--> 0.7
+
+7) What is the time complexity of inserting a key and value into a hashmap?
+--> 0(1)
+
+8) If we perform rehashing when load factor is greater than 0.7, and the bucket size is 12 . For what value of size would we perform rehashing?
+--> 9
+
