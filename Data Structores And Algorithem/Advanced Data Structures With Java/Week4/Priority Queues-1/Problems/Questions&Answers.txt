@@ -1,0 +1,19 @@
+1) What is the minimum number of elements in a heap of level 4?(The root of the tree is at level 0.)
+--> 16
+
+2) The height of Complete Binary tree is in terms of :
+--> logn
+
+3) If a CBT is stored using array , then what is the parent node of element stored at index 11?
+--> 5
+
+4) The child of a node at index i are stored at index xi+1 and xi+x. Here x is:
+--> 2
+
+5) We can use Balanced BST as a Heap?
+--> false
+
+6) The topmost element of min heap stores :
+--> minimum value node
+
+7)
